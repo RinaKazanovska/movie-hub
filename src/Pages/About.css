@@ -1,0 +1,27 @@
+.col-12 {
+    color: white;
+    margin-top: 40px;
+  }
+  .picstyle {
+    text-align: center;
+  }
+  .team {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .buttonstyle {
+    text-align: center;
+  }
+  .dci {
+    color: white;
+    text-align: center;
+  }
+  .dciLogo {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+  }
+  .aboutDci {
+    text-align: center;
+    color: white;
+  }

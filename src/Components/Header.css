@@ -1,0 +1,23 @@
+header {
+    padding-bottom: 80px;
+}
+
+.active {
+    color: rgb(255, 106, 106);
+}
+
+header h1 {
+    color: rgb(214, 170, 255);
+    margin: 5px 10px;
+    text-align: center;
+}
+
+header a {
+    color: white;
+    font-size: 1.1em;
+}
+
+header a:hover {
+    color: rgb(214, 170, 255);
+    transition: all 0.5s;
+}

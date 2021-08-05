@@ -1,0 +1,34 @@
+.movieCard:hover {
+    transform: scale(1.008);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.movieCard h4 {
+    color: rgb(255, 106, 106);
+    margin-bottom: 5px;
+    font-size: 22px;
+}
+
+.movieCard a {
+    text-decoration: none;
+    color: black;
+}
+
+.movieCard {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.cardFooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.cardBody {
+    background-color: white;
+    padding: 7px;
+}
