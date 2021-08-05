@@ -1,3 +1,5 @@
+![main page](https://user-images.githubusercontent.com/71511003/128326901-ae6d22ef-816f-44dc-9617-a9aa039b3836.png)
+![main page](https://user-images.githubusercontent.com/71511003/128326979-34f1b9ae-dccb-4290-935d-b15012b35b72.png)
 # movie-hub
 
 # Getting Started with Create React App
